@@ -1,0 +1,20 @@
+project:
+  type: book
+
+book:
+  title: "Biodiversity Informatics"
+  subtitle: "Concepts, Cases, and Open Problems"
+  author: "Craig Frayne"
+  chapters:
+    - index.qmd
+    - chapters/01-what-is-biodiversity-information.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+  epub: default

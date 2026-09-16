@@ -1,0 +1,22 @@
+# What is Biodiversity Information?
+
+A natural-history specimen appears at first to be a straightforward
+unit of biodiversity information.
+
+But what exactly is the informational object being represented?
+
+## From organism to specimen
+
+...
+
+## From specimen to record
+
+...
+
+## What is represented?
+
+...
+
+## Open questions
+
+...

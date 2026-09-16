@@ -1,0 +1,8 @@
+# Biodiversity Informatics {.unnumbered}
+
+An open, research-driven book about how biodiversity knowledge becomes data.
+
+This project is a work in progress.
+
+The book combines conceptual explanation with real-world examples,
+computational demonstrations, datasets, and open research questions.
